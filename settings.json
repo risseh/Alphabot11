@@ -4,15 +4,15 @@
 	"antihidetag": true,
 	"user_register": false,
 	"anti_delete" : false,
-	"anticall": false,
+	"anticall": true,
 	"prefix": ".",
 	"language":"ind",
-	"ownerNumber": "6289505165400",
-	"ownerNumberr": "6289505165400",
-	"cr": "@AlyaaXzy ?",
-	"ownername": "AlyaaXzy ?",
-	"botname":"AlyaaXzy ?",
+	"ownerNumber": "6283136262784",
+	"ownerNumberr": "6283136262784",
+	"cr": "@Rizqi_Fath ?",
+	"ownername": "Rizqi_Fath ?",
+	"botname":"Rizqi_Bot ?",
 	"thumb":"26a33b36cbd3bdbb84705aef8ddd990b.jpg",
 	"fakethumb":"26a33b36cbd3bdbb84705aef8ddd990b.jpg", 
-	"fake": " 「  AlyaaXzy ?  」\nCreated By @Alyaaxzy ?"
+	"fake": " 「  Rizqi_Fath ?  」\nCreated By @Rizqi_Fath ?"
 }
